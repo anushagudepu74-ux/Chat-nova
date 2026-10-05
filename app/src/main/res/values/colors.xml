@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ChatNova main colors -->
+    <color name="chatnova_primary">#6750A4</color>
+    <color name="chatnova_secondary">#625B71</color>
+
+    <!-- Background colors -->
+    <color name="background">#F7F5FA</color>
+    <color name="headerColor">#6750A4</color>
+    <color name="chatBackground">#F7F5FA</color>
+
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Message colors -->
+    <color name="user_message">#6750A4</color>
+    <color name="bot_message">#E8DEF8</color>
+
+    <!-- Text colors -->
+    <color name="text_dark">#202124</color>
+    <color name="text_white">#FFFFFF</color>
+
+</resources>

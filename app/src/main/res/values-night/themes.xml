@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ChatNova dark/night colors -->
+
+    <color name="headerColor">#4A3A70</color>
+
+    <color name="chatBackground">#121212</color>
+
+    <color name="chatnova_primary">#9A82DB</color>
+
+    <color name="chatnova_secondary">#CCC2DC</color>
+
+    <color name="background">#121212</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+
+    <color name="user_message">#6750A4</color>
+
+    <color name="bot_message">#332F38</color>
+
+    <color name="text_dark">#FFFFFF</color>
+
+    <color name="text_white">#FFFFFF</color>
+
+</resources>
